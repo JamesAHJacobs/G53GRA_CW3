@@ -1,12 +1,42 @@
-#include "dog.h"
+#include "Dog.h"
 
 
 
-dog::dog()
+Dog::Dog()
 {
 }
 
 
-dog::~dog()
+Dog::~Dog()
 {
+}
+
+void Dog::Display()
+{
+
+}
+
+void Dog::Body()
+{
+
+}
+
+void Dog::Legs()
+{
+
+}
+
+void Dog::SubLegs()
+{
+
+}
+
+void Dog::Head()
+{
+
+}
+
+void Dog::Tail()
+{
+
 }
